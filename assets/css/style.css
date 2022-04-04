@@ -18,7 +18,7 @@
   #backgroundimage{
  background-image: url('./images/african-woman.jpg');
    background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: relative;
   background-position: right;
   padding-top: 10px;
   }
