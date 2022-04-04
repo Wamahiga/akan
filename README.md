@@ -14,4 +14,3 @@
 ## Authors 
 Nick & wamahiga
 
-Akan generator
