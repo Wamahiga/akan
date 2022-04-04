@@ -1,0 +1,85 @@
+/*custom stylesheet*/
+.logo {
+     
+    color: #DAD21E;
+    margin-top: -10;
+  }
+  
+  /**navbar deco**/
+  .my-nav{
+      background-color:#0D5707;
+  }
+
+  body{
+    background-color:black;
+    color: white;
+  }
+
+  #backgroundimage{
+ background-image: url('./images/african-woman.jpg');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+  padding-top: 10px;
+  }
+  
+
+  .navbar-brand{
+      font-size: 40px;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #DAD21E !important;
+      text-shadow: 3px 3px 5px #777;
+      margin-right: 50%;
+      margin-top: -5;
+  }
+  
+  .text{
+    font-size: 30px;
+    margin: 20px 0;
+  }
+  
+  .btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:#6C0404;
+    color: #fff;
+  }
+
+  a.btn:hover
+  {
+    background: #6C0404;
+    border: none;
+    color: #fff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+
+  }
+
+  .banner-info
+  {
+margin: 30px 0px;
+  }
+
+  .africa{
+  height: 50%;
+  }
+
+  #output{
+    font-size: 28px;
+    font-weight: 800;
+    text-align: left;
+    margin: 50px 0px;
+    background: -webkit-linear-gradient(red, green,rgb(218, 218, 12));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .frm{
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+
+     
