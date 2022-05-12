@@ -14,3 +14,6 @@
 ## Authors 
 Nick & wamahiga
 
+
+# Github Pages
+https://wamahiga.github.io/akan/
